@@ -6,7 +6,7 @@
 </br>
 </br>
 
-[![Daewoong Kim's github stats](https://github-readme-stats.vercel.app/api?username=dwg0109)](https://github.com/anuraghazra/github-readme-stats)
+[![Daewoong Kim's github stats](https://github-readme-stats.vercel.app/api?username=dwg0109)](https://github.com/dwg0109/github-readme-stats)
 
 
 
